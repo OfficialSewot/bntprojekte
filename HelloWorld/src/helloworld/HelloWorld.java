@@ -7,7 +7,7 @@ package helloworld;
 
 /**
  *
- * @author anon
+ * @author Kevin Schatto
  */
 public class HelloWorld {
 
@@ -15,8 +15,7 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-        // TODO code application logic here
+        System.out.println("Hello World :)");
     }
     
 }
